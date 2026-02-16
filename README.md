@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot from 2026-01-22 15-05-32" src="https://github.com/user-attachments/assets/7cbfdb49-951a-4ebf-97f7-cda5be6211ae" />
+
+
 This is a Kotlin Multiplatform project targeting Desktop (JVM).
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
